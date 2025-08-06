@@ -84,3 +84,13 @@ O projeto está estruturado em 4 páginas principais: **Performance das Campanha
 2. Abra no Power BI Desktop
 3. Atualize a fonte de dados apontando para o arquivo `dados_marketing.csv`
 4. Explore os insights interagindo com os filtros e visualizações
+
+---
+
+## 👩‍💻 Sobre
+
+Projeto desenvolvido por Nathanny Soares durante o curso de Power BI da Data Science Academy.
+
+[🔗 LinkedIn](https://www.linkedin.com/in/nathannysoares/) • [💻 GitHub](https://github.com/nathannysoares)
+
+
