@@ -2,7 +2,7 @@
 
 ## Resumo do Projeto
 
-Este projeto apresenta uma análise abrangente de dados de marketing utilizando Power BI, com foco na performance de campanhas publicitárias e comportamento do consumidor. O dashboard analisa informações de 2.000 clientes across 7 países, incluindo dados demográficos, padrões de compra, efetividade de campanhas e preferências de canais de venda.
+Este projeto apresenta uma análise abrangente de dados de marketing utilizando Power BI, com foco na performance de campanhas publicitárias e comportamento do consumidor. O dashboard analisa informações de 2.000 clientes, 7 países, incluindo dados demográficos, padrões de compra, efetividade de campanhas e preferências de canais de venda.
 
 O projeto está estruturado em 4 páginas principais: **Performance das Campanhas**, **Análise de Cliente**, **Comportamento de Compra** e **Padrões por Ponto de Venda**, oferecendo insights estratégicos para otimização de campanhas e segmentação de clientes.
 
